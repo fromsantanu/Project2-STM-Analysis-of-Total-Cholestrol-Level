@@ -23,8 +23,11 @@
 The program analyzes spread of total chlolestrol level readings from mean value. A greater deviation from mean values greater risk of heart attack which is seen for the group leading unhealthy and unregulated life. Where as the other group who do regular exercises and lead a controlled life have less fluctuations in his cholestrol level.
 
 ## Video
+<!--
+[![Watch the video](https://img.youtube.com/vi/tbd/hqdefault.jpg)](https://www.youtube.com/watch?v=tbd) 
+-->
 
-[![Watch the video](https://img.youtube.com/vi/tbd/hqdefault.jpg)](https://www.youtube.com/watch?v=tbd)
+We are working on this section. Please check at some other time.
 
 ## Technologies-used
 
